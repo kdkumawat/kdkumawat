@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kdkumawat
+- 👋 Hi, I’m Kuldeep Kumawat
 - 👀 I’m interested in developming interesting and challenging web apps using .Net Core, Web API, MVC, SQL, C#, Micro-services, Docker, AWS, Angular 2+, VueJs, jQuery, AJAX, JavaScript, CSS, Angular Material
 - 🌱 I’m currently learning how to scale large applications and querying large database
 - 💞️ I’m looking to collaborate on challenging work
