@@ -1,12 +1,41 @@
 - 👋 Hi, I’m Kuldeep Kumawat
 
-With over 10+ years of experience as a software engineer, I have had the opportunity to work across multiple domains, including FinTech, SSO with Active Directory, E-Commerce, and Social Networking. I pride myself on my ability to adapt to different environments and quickly learn new technologies to create efficient solutions.
+I design distributed systems that operate under real-world pressure, not just in ideal conditions.
 
-Throughout my career, I have honed my skills in building products from end-to-end. My technical expertise includes GoLang, gRPC, protobuf, SQL, MongoDb, Redis, C#, Micro-services, Docker, AWS, .Net Core, Electron, Angular, Vue.js, JQuery, and Javascript, which allows me to build scalable and performant systems that meet business needs.
+Over the last 10+ years, I have built backend systems across FinTech, Identity and Access Management, Immigration Tech, and SaaS platforms, including real-time pipelines handling 5K+ events/sec and high-throughput services supporting critical workflows.
 
-Hands on experience - WebRTC, Datadog, logstash, kafka, OS Internals (Mac / Windows / Linux)
+At Deel, I work on immigration systems that power global workforce mobility. I build and scale services that integrate with complex third-party systems and government platforms.
 
-A typical day in my work routine involves various activities, such as requirement gathering and analysis, database design, coding, UI design, unit testing, code review, deployment, documentation, and mentoring. I approach each task with a detail-oriented mindset and a dedication to delivering quality work.
+Previously at JumpCloud, I built systems for an Identity and Device Management platform, including real-time monitoring, alerting, and event-driven pipelines at scale.
+
+I also work with AI agents, building agentic workflows and LLM-backed automation on top of these systems. I treat an agent like any other distributed component: define the boundaries, handle failure, make it observable. My view is that you cannot direct an agent well if you have never built the thing yourself.
+
+What I work on
+• Distributed systems and microservices
+• Event-driven architectures using Kafka and NATS
+• Real-time processing and alerting systems
+• AI agents, agentic workflows, and LLM integrations
+• Cloud-native systems on AWS using Docker and Kubernetes
+• Observability with Datadog, logging, tracing, and alerting
+
+Core technologies
+• Go, Node.js, TypeScript
+• Kafka, NATS
+• PostgreSQL, MongoDB, Redis
+• gRPC, REST APIs
+• Docker, Kubernetes, AWS
+• LLM APIs, MCP, agent frameworks
+
+How I think about systems
+• Reliability over hype
+• Systems fail at scale, so design for failure first
+• Observability is a core requirement, not an afterthought
+• Good engineering is about trade-offs, not tools
+
+I focus on building systems that behave predictably under load, evolve over time, and solve real business problems.
+
+Always open to discussions on system design, scaling challenges, backend architecture, and AI agents.
+
 - 📫 How to reach me https://www.linkedin.com/in/kdkumawat/
 
 <!---
